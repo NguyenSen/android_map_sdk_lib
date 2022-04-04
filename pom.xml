@@ -6,7 +6,6 @@
   <groupId>vietmap.map.sdk</groupId>
   <artifactId>map-android-sdk</artifactId>
   <version>1.0.3</version>
-  <packaging>aar</packaging>
   <dependencies>
   </dependencies>
 </project>
