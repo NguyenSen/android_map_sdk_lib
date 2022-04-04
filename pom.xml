@@ -5,26 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mapbox.mapboxsdk</groupId>
   <artifactId>map-android-sdk</artifactId>
-  <version>1.0.8</version>
-  <packaging>aar</packaging>
-  <build>
-    <plugins>
-      <plugin>
-        <groupId>com.simpligility.maven.plugins</groupId>
-        <artifactId>android-maven-plugin</artifactId>
-        <version>4.1.0</version>
-        <extensions>true</extensions>
-        <configuration>
-          <encoding>utf8</encoding>
-          <source>1.8</source>
-          <target>1.8</target>
-          <sign>
-            <debug>false</debug>
-          </sign>
-        </configuration>
-      </plugin>
-    </plugins>
-  </build>
-
+  <version>1.0.9</version>
+ 
    
 </project>
